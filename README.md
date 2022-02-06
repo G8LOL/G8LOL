@@ -5,8 +5,8 @@ I know a few languages, but I know Java the best.
 
 ### Contact
 
-My Discord:G8LOL#8445
-My YouTube: https://www.youtube.com/channel/UC5o8t3YijCimDdwTuzIfz6A/videos
+My Discord:G8LOL#6553
+My YouTube: https://www.youtube.com/c/G8LOL  
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G8LOL&count_private=true&langs_count=7" /> 
