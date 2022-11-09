@@ -1,6 +1,6 @@
 ### yea i made this thing for fun
 
-I am the developer and owner of Artemis (The client, not anticheat). 
+i like java
 
 ### Contact
 
