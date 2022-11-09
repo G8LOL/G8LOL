@@ -4,8 +4,9 @@ I am the developer and owner of Artemis (The client, not anticheat).
 
 ### Contact
 
-My Discord:G8LOL#6553
-My YouTube: https://www.youtube.com/c/G8LOL  
+G8LOL#0807
+
+https://www.youtube.com/c/G8LOL  
 
 <a href="https://github.com/G8LOL">
   <p align="left">
