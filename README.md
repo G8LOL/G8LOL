@@ -4,7 +4,7 @@
 
 - Developer from the United States
 - Currently learning python
-- 
+
 ### Languages
 
 <p align="left"> 
