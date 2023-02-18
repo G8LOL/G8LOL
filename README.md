@@ -20,7 +20,7 @@
 - Java Event Bus
 
 ### Conact me
-- Discord: G8LOL#3621 - 903788261036687371
+- Discord: G8LOL#0967 - 903788261036687371
 
 <div align="center">
 <a href="https://twitter.com/G8LOL1" target="_blank">
