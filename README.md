@@ -3,7 +3,12 @@
 ### About me
 
 - Developer from the United States
-- Currently learning python
+- ICT trader
+- Quant analyzer and model builder
+- ML and DL expert
+- Aerospace Engineering
+- Learning C and C++
+- Cybersecurity
 
 ### Languages
 
@@ -15,17 +20,18 @@
 </p>
 
 ### Current Projects
-- Artemis Client
-- Natural language processing through a RNN
-- Java Event Bus
+- Scraping DoD, twitter, and reddit for defense contracts isssued to publically traded companies
+- Advanced ML-based quant model for combining volumetric and institutional trading with TA and FA aspects (competing with rentech)
+- Advanced & modern neural net framework in Java to replace any existing ones
+- Recommendation algo from scratch to analyze behavioral output based on stimuli
+- Stealth Aerospace Engineering startup
+- Stealth mobile app development in c#
+- Modular decentralized p2p botnet in C++ with PoolParty for research purposes
 
 ### Conact me
-- Discord: G8LOL#0967 - 903788261036687371
+- Discord: g8lol
 
 <div align="center">
-<a href="https://twitter.com/G8LOL1" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
 <a href="https://www.youtube.com/c/G8LOL" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
