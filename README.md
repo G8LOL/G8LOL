@@ -29,7 +29,7 @@
 - Modular decentralized p2p botnet in C++ with PoolParty for research purposes
 
 ### Conact me
-- Discord: g8lol
+- N/A
 
 <div align="center">
 <a href="https://www.youtube.com/c/G8LOL" target="_blank">
