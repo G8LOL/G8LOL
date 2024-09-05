@@ -3,12 +3,9 @@
 ### About me
 
 - Developer from the United States
-- ICT trader
-- Quant analyzer and model builder
-- ML and DL expert
-- Aerospace Engineering
-- Learning C and C++
-- Cybersecurity
+- Forex/Stock Trader
+- I love machine/deep learning
+- Learning cpp and go
 
 ### Languages
 
@@ -20,13 +17,16 @@
 </p>
 
 ### Current Projects
-- Scraping DoD, twitter, and reddit for defense contracts isssued to publically traded companies
-- Advanced ML-based quant model for combining volumetric and institutional trading with TA and FA aspects (competing with rentech)
-- Advanced & modern neural net framework in Java to replace any existing ones
-- Recommendation algo from scratch to analyze behavioral output based on stimuli
-- Stealth Aerospace Engineering startup
-- Stealth mobile app development in c#
-- Modular decentralized p2p botnet in C++ with PoolParty for research purposes
+- Scraper for various forums to look for information on publicly traded companies
+- Deep learning using torch for financial time series
+- Minecraft stuff
+- Other stuff
+
+### Future Projects
+- A more verbose neural net framework in Java for both machine/deep learning
+- Recommendation algo for fun
+- Mobile app in c# maybe?
+- Custom JVM distribution
 
 ### Conact me
 - N/A
